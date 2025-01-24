@@ -2,12 +2,12 @@ body {
     color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;;
     background-color: #020212;
-    line-height: 90%;
+    line-height: .2in;
 }
 
 .title {
     color: rgb(255, 0, 111);
-    margin-top: 10%;
+    margin-top: .5in;
     line-height: normal;
     text-align: center;
     background-color: #080c23;
@@ -15,7 +15,7 @@ body {
 
 .content{
     text-align: center;
-    margin-top: -1%;
+    margin-top: -.2in;
     margin-left: 5%;
     margin-right: 5%;
     /*background-color: #080826*/;
@@ -24,11 +24,13 @@ body {
 .link {
     color: lime;
     text-decoration: none;
-    line-height: 40%;
+    line-height: .1in%;
 }
 
 .image {
-    max-width: 40%;
-    max-height: 40%;
-    margin-left: 30%;
+    display: block;
+    width: 3.5in;
+    height: 2in;
+    margin-left: auto;
+    margin-right: auto;
 }
