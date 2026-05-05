@@ -24,13 +24,21 @@ body {
 .link {
     color: lime;
     text-decoration: none;
-    line-height: .1in%;
+    line-height: .1in;
 }
 
 .image {
     display: block;
-    width: 3.5in;
+    width: auto;
     height: 2in;
     margin-left: auto;
     margin-right: auto;
+}
+
+.game {
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    aspect-ratio: 16 / 9;
+    
 }
