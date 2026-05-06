@@ -27,6 +27,11 @@ body {
     line-height: .1in;
 }
 
+.link:hover {
+    color: chartreuse;
+    text-decoration: underline;
+}
+
 .image {
     display: block;
     width: auto;

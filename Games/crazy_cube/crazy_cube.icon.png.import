@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://rioh6f4uhxpv"
-path="res://.godot/imported/crazy_cube.icon.png-583428cd6068a410c5b4398c6e5fe311.ctex"
+uid="uid://qws30gi610sr"
+path="res://.godot/imported/crazy_cube.icon.png-79c9ecef525b37d5e33edcc980c71431.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Exports/HTML/beta/crazy_cube.icon.png"
-dest_files=["res://.godot/imported/crazy_cube.icon.png-583428cd6068a410c5b4398c6e5fe311.ctex"]
+source_file="res://Exports/HTML/v23_website/crazy_cube.icon.png"
+dest_files=["res://.godot/imported/crazy_cube.icon.png-79c9ecef525b37d5e33edcc980c71431.ctex"]
 
 [params]
 
